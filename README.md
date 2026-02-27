@@ -14,6 +14,5 @@ I'm passionate about <b>music, videogames, sports, comics, art, animals</b>, and
 <i>"God bless America."</i>  
 
 
-⭐️ <i>"Me gustan los gatos."</i><br/>
-<i>"I love cats."</i>
+⭐️ <i>"I love cats."</i>
 </p>
