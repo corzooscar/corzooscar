@@ -14,5 +14,16 @@ I'm passionate about <b>music, videogames, sports, comics, art, animals</b>, and
 <i>"God bless America."</i>  
 
 
+
+<h3 align="left">🔥  Mis Estadísticas / My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=corzooscar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 ⭐️ <i>"I love cats."</i>
 </p>
