@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! Soy Oscar Corzo / Hi there! I'm Oscar Corzo</h1>
+<h3 align="center">🚀 Desarrollador de Software en entrenamiento | Software Developer in training</h3>
 
-<!--
-**corzooscar/corzooscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí / About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy <b>Desarrollador de Software</b> en <b>entrenamiento</b>, actualmente trabajando en un proyecto para un banco, un programa diseñado para consola que simula las operaciones básicas de un cajero automático.  
+Me apasiona la <b>música, videojuegos, deportes, comics, arte, animales</b> y <b>disfrutar la vida en general</b>.  
+<i>"Dios bendiga América."</i>  
+
+I'm a <b>Sofware developer</b> in <b>training</b>, currently working on a project for a bank, a console-based program that simulates the basic operations of an ATM.  
+I'm passionate about <b>music, videogames, sports, comics, art, animals</b>, and <b>enjoying life in general</b>.  
+<i>"God bless America."</i>  
+
+
+⭐️ <i>"Me gustan los gatos."</i><br/>
+<i>"I love cats."</i>
+</p>
