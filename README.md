@@ -90,7 +90,7 @@ I'm still learning, so I won't sell principles I haven't tested. These I have:
 
 ## Currently learning
 
-TypeScript in depth · Automated testing · Design patterns · Data analysis with pandas
+AWS · Automated orchestration with Airflow· Design patterns · Data analysis with Spark
 
 ---
 
@@ -110,5 +110,5 @@ TypeScript in depth · Automated testing · Design patterns · Data analysis wit
 </p>
 
 <p align="center">
-  <i>Still in training, building things that actually hold up.</i>
+  <i>🐈 I l<3ve Kittens. 🐈‍⬛</i>
 </p>
