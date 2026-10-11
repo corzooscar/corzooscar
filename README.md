@@ -110,5 +110,5 @@ AWS · Automated orchestration with Airflow· Design patterns · Data analysis w
 </p>
 
 <p align="center">
-  <i>🐈 I l<3ve Kittens. 🐈‍⬛</i>
+  <i>🐈 I love Kittens. 🐈‍⬛</i>
 </p>
